@@ -1,0 +1,27 @@
+{
+  "name": "ui-factory",
+  "homepage": "https://github.com/rajeev-tripathi/ui-factory",
+  "authors": [
+    "Rajeev Tripathi (rajeevsmile9@gmail.com)"
+  ],
+  "description": "UI Factory includes all native html components carrying custom behavior to it.",
+  "main": "",
+  "keywords": [
+    "ui-factory",
+    "ui-fact",
+    "user-interface-factory",
+    "ux-fact",
+    "ux-factory"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
